@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joana
-- 👀 I’m interested in Games and Music
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on a AAA title
+- 👋 Hi, I’m a Singer
+- 👀 I’m interested in Singing
+- 🌱 I’m currently learning Sohyang's songs
+- 💞️ I’m looking to collaborate with a famous performer
 - 📫 How to reach me: www.linkedin.com/in/joanastanoeva
 
 <!---
