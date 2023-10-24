@@ -1,3 +1,4 @@
+- Proficient in HTML & CSS
 - Portfolio: https://jstanoeva.github.io/portfolio/
 
 
