@@ -1,5 +1,5 @@
 - Proficient in HTML & CSS
-- Portfolio: https://jstanoeva.github.io/portfolio/
+- Portfolio: <a href=https://jstanoeva.github.io/portfolio/ target=_blank>🐈</a>
 
 
 <!---
