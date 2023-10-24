@@ -1,9 +1,3 @@
-- 👋 Hi, I’m a Soprano
-- 👀 I’m interested in Singing
-- 🌱 I’m currently learning Sohyang's songs
-- 💞️ I’m looking to collaborate with a famous performer
-- 📫 How to reach me: DO NOT!
-
 - Portfolio: https://jstanoeva.github.io/portfolio/
 
 
