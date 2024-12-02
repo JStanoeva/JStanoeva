@@ -1,4 +1,4 @@
-- Proficient in HTML & CSS
+- Proficient in HTML, CSS & JavaScript
 - Portfolio: <a href="https://jstanoeva.github.io/portfolio/" target="_blank">🐈</a>
 
 
