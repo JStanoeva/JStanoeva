@@ -185,31 +185,7 @@
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
       width="36"
       height="36"
-      alt="Figma" /></a
-  ><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
-      width="36"
-      height="36"
-      alt="Google Cloud" /></a
-  ><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
-      width="36"
-      height="36"
-      alt="TensorFlow" /></a
-  ><a href="https://pytorch.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg"
-      width="36"
-      height="36"
-      alt="PyTorch" /></a
-  ><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-      width="36"
-      height="36"
-      alt="Docker"
+      alt="Figma"
   /></a>
 </p>
 
