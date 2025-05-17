@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm the Queen of the Cheese Republic</h1>
 <h3 align="center">A passionate frontend developer. 💻</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://jstanoeva.github.io/portfolio/) </br>
+- 🔭 I’m currently working on [Stardust Portfolio](https://jstanoeva.github.io/stardust-portfolio/) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js, Python** </br>
 - 👨‍💻 All of my projects are available at [https://jstanoeva.github.io/portfolio/](https://jstanoeva.github.io/portfolio/) </br>
 - ⚡ Fun fact: **I love cats. 🐱** </br> </br>
