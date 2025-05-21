@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stardust Portfolio](https://jstanoeva.github.io/stardust-portfolio/) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js, Python** </br>
-- 👨‍💻 All of my projects are available at [https://jstanoeva.github.io/portfolio/](https://jstanoeva.github.io/portfolio/) </br>
+- 👨‍💻 All of my projects are available at [Main Portfolio](https://jstanoeva.github.io/portfolio/) </br>
 - ⚡ Fun fact: **I love cats. 🐱**
 - 🧀 Cheese trivia: **I love my hubby, King Orion. 🌌** </br> </br>
 
