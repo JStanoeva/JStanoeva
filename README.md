@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm the Queen of the Cheese Republic</h1>
 <h3 align="center">A passionate frontend developer. 💻</h3>
 
-- 🔭 I’m currently working on [Stardust Portfolio](https://jstanoeva.github.io/stardust-portfolio/) </br>
+- 🔭 I’m currently working on [Glimmerwood Dash](https://jstanoeva.github.io/glimmerwood-dash/) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js, Python** </br>
-- 👨‍💻 All of my projects are available at [Main Portfolio](https://jstanoeva.github.io/portfolio/) </br>
+- 👨‍💻 All of my projects are available at [Portfolio](https://jstanoeva.github.io/portfolio/) </br>
 - ⚡ Fun fact: **I love cats. 🐱**
 - 🧀 Cheese trivia: **I love my hubby, King Orion. 🌌** </br> </br>
 
