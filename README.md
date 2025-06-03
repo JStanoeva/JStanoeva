@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Glimmerwood Dash](https://jstanoeva.github.io/glimmerwood-dash/) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js, Python** </br>
 - 👨‍💻 All of my projects are available at [Portfolio](https://jstanoeva.github.io/portfolio/) </br>
-- ⚡ Fun fact: **I love cats. 🐱**
+- ⚡ Fun fact: **I love cats and cheese. 🐱+🧀**
 - 🧀 Cheese trivia: **I love my hubby, King Orion. 🌌** </br> </br>
 
 <h3 align="left">Connect with me:</h3>
