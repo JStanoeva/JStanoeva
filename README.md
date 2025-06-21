@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer. 💻</h3>
 
 - 🔭 I’m currently working on [Glimmerwood Dash](https://jstanoeva.github.io/glimmerwood-dash/) </br>
-- 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js, Python** </br>
+- 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js** </br>
 - 👨‍💻 All of my projects are available at [Portfolio](https://jstanoeva.github.io/portfolio/) </br>
 - ⚡ Fun fact: **I love cats and cheese. 🐱+🧀**
 - 🧀 Cheese trivia: **I love my hubby, King Orion. 🌌** </br> </br>
