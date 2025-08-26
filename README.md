@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm the Queen of the Cheese Republic</h1>
 <h3 align="center">A passionate frontend developer. 💻</h3>
 
-- 🔭 I’m currently working on [Glimmerwood Dash](https://jstanoeva.github.io/glimmerwood-dash/) </br>
+- 🔭 I’m currently working on [Glimmerwood Dash](https://github.com/JStanoeva/glimmerwood-dash) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js** </br>
 - 👨‍💻 All of my projects are available at [Portfolio](https://interests-portfolio.netlify.app/) </br>
 - ⚡ Fun fact: **I love cats and cheese. 🐱+🧀**
