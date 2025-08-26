@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Glimmerwood Dash](https://github.com/JStanoeva/glimmerwood-dash) </br>
 - 🌱 I’m currently learning **Tailwind CSS, Advanced JavaScript & React.js** </br>
-- 👨‍💻 All of my projects are available at [Portfolio](https://interests-portfolio.netlify.app/) </br>
+- 👨‍💻 My best projects are available at [Portfolio](https://interests-portfolio.netlify.app/) </br>
 - ⚡ Fun fact: **I love cats and cheese. 🐱+🧀**
 - 🧀 Cheese trivia: **I love my hubby, King Orion. 🌌** </br> </br>
 
