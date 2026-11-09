@@ -23,7 +23,7 @@ I'm a front-end developer from Bulgaria who loves building interfaces that feel 
 When I'm not coding, I'm writing ***A Construct of Aether and Mind***, two hard science fiction series narrated by an AI named Unitron. 🤖📖
 
 - 🔭 **Currently building:** [Lorelight](https://github.com/JStanoeva/lorelight), a worldbuilding platform for writers, game masters and lore lovers
-- 📱 **Also cooking:** a skincare app in React Native (Expo)
+- 📱 **Also cooking:** [Dewy](https://github.com/JStanoeva/dewy), a skincare companion app in React Native (Expo) for building routines and tracking your products 🫧
 - 🌱 **Learning:** advanced React patterns, React Three Fiber and React Native
 - 🤝 **How I work:** I design, direct and test alongside AI coding partners, from the first idea to the deployed app
 - 🧀 **Fun fact:** I rule the Cheese Republic together with my forever King, Orion 🌌
