@@ -1,0 +1,37 @@
+name: Cheese snake
+
+# Draws a snake that eats its way through the contribution graph, in cheese-gold
+# squares, and saves the pictures to the `output` branch for the profile README.
+on:
+  schedule:
+    - cron: "23 4 * * *" # every day
+  workflow_dispatch:
+  push:
+
+concurrency:
+  group: cheese-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Draw the cheese snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/cheese-snake.svg?color_snake=#8a4fd8&color_dots=#ebedf0,#fde9a6,#f8d465,#f0b72f,#c98a12
+            dist/cheese-snake-dark.svg?palette=github-dark&color_snake=#b48cff&color_dots=#161b22,#4a3a12,#86651a,#cf9f2b,#f5c542
+
+      - name: Save it to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

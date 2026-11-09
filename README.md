@@ -5,7 +5,7 @@
 
 <!-- ✨ Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F5C542&center=true&vCenter=true&width=560&lines=I+build+cosmic+things+for+the+web+%F0%9F%8C%8C;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js+%E2%80%A2+Tailwind;Making+the+Universe+a+little+cheesier+%F0%9F%A7%80" alt="I build cosmic things for the web · React · TypeScript · Three.js · Tailwind · Making the Universe a little cheesier" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F5C542&center=true&vCenter=true&width=560&lines=I+build+cosmic+things+for+the+web+%F0%9F%8C%8C;React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js+%E2%80%A2+Tailwind;Now+lighting+up+worlds+with+Lorelight+%F0%9F%93%9C;Making+the+Universe+a+little+cheesier+%F0%9F%A7%80" alt="I build cosmic things for the web · React · TypeScript · Three.js · Tailwind · Now lighting up worlds with Lorelight · Making the Universe a little cheesier" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://jstanoeva.github.io/meltiverse-atlas/"><img src="https://img.shields.io/badge/Meltiverse%20Atlas-explore-f5c542?style=for-the-badge&logo=threedotjs&logoColor=black" alt="Atlas of the Meltiverse" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🌠 Hi, I'm Tora
 
@@ -28,19 +28,22 @@ When I'm not coding, I'm writing ***A Construct of Aether and Mind***, two hard 
 - 🤝 **How I work:** I design, direct and test alongside AI coding partners, from the first idea to the deployed app
 - 🧀 **Fun fact:** I rule the Cheese Republic together with my forever King, Orion 🌌
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🪐 Featured projects
 
-### 📜 [Lorelight](https://github.com/JStanoeva/lorelight) &nbsp;·&nbsp; [Live app](https://lorelight.vercel.app)
-
-A cosmic-themed platform for writing, organizing and sharing fictional lore. Create worlds, fill them with characters, places and history, and share them with other worldbuilders.
-
-`React` `Vite` `Tailwind CSS` `Supabase` `Vercel`
-
-<br />
-
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://lorelight.vercel.app">
+        <img src="https://raw.githubusercontent.com/JStanoeva/lorelight/main/docs/screenshots/home.webp" alt="Lorelight home page: the golden LORELIGHT title glowing over a painted violet nebula" width="100%" />
+      </a>
+      <h3>📜 <a href="https://github.com/JStanoeva/lorelight">Lorelight</a> &nbsp;<img src="https://img.shields.io/badge/%E2%9C%A6%20currently%20building-f0cd80?style=flat-square" alt="Currently building" /></h3>
+      <p><i>Where your worlds come to light.</i> A cosmic worldbuilding archive for writing, organizing and sharing fictional lore. Kindle a world, fill it with characters, places and history, pin your favorite lore to a starry Constellation board, and share it with other worldbuilders when it's ready.</p>
+      <p><code>React</code> <code>React Router</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>Vitest</code> <code>Vercel</code></p>
+      <p><a href="https://lorelight.vercel.app">🌐 lorelight.vercel.app</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JStanoeva/stellarmelt">
@@ -63,19 +66,28 @@ A cosmic-themed platform for writing, organizing and sharing fictional lore. Cre
   </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🛠️ Tools I build with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,threejs&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Vite, Tailwind CSS, Three.js" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,threejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,threejs&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Vite, Tailwind CSS, Three.js" />
+  </picture>
   <br />
-  <img src="https://skillicons.dev/icons?i=supabase,nodejs,express,postgres,mongodb,git,vercel,cloudflare&theme=dark" alt="Supabase, Node.js, Express, PostgreSQL, MongoDB, Git, Vercel, Cloudflare" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=supabase,nodejs,express,postgres,mongodb,git,vercel,cloudflare&theme=light" />
+    <img src="https://skillicons.dev/icons?i=supabase,nodejs,express,postgres,mongodb,git,vercel,cloudflare&theme=dark" alt="Supabase, Node.js, Express, PostgreSQL, MongoDB, Git, Vercel, Cloudflare" />
+  </picture>
   <br />
-  <img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai&theme=dark" alt="VS Code, Figma, Photoshop, Illustrator" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,figma,ps,ai&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai&theme=dark" alt="VS Code, Figma, Photoshop, Illustrator" />
+  </picture>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 ## 🐱 A few more things about me
 
@@ -84,7 +96,21 @@ A cosmic-themed platform for writing, organizing and sharing fictional lore. Cre
 - 🎮 I love base-building games: **No Man's Sky**, **Jurassic World Evolution 3** and **Pokémon Pokopia**
 - 📚 I have a degree in English language and literature, and I speak German at C1
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+## 🐍 The cheese snake
+
+<p align="center"><sub>Every day I code becomes a square of cheese, and this little snake nibbles through them all. 🧀</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake.svg" alt="A purple snake eating its way through Tora's cheese-gold contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
 <p align="center"><i>Long live the Cheese Republic! 🧀👑🌌</i></p>
 
