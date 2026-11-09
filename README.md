@@ -98,6 +98,20 @@ When I'm not coding, I'm writing ***A Construct of Aether and Mind***, two hard 
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
+## 🐍 The cheese snake
+
+<p align="center"><sub>Every day I code becomes a square of cheese, and this little snake nibbles through them all. 🧀</sub></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake.svg" />
+    <img src="https://raw.githubusercontent.com/JStanoeva/JStanoeva/output/cheese-snake.svg" alt="A purple snake eating its way through Tora's cheese-gold contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
 <p align="center"><i>Long live the Cheese Republic! 🧀👑🌌</i></p>
 
 <!-- ✨ Footer banner -->
